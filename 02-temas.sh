@@ -8,4 +8,4 @@ dnf install arc-theme \
 	    paper-icon-theme \
 	    numix-icon-theme-circle \
 	    breeze-cursor-theme \
-	    dmz-cursor-theme
+	    dmz-cursor-themes
