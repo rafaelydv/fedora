@@ -4,7 +4,7 @@ dnf install gparted \
 	    libreoffice-writer \
 	    libreoffice-calc \
 	    libreoffice-impress \
-	    libreoffice-l10n-pt-br \
+	    libreoffice-pt-BR \
 	    kolourpaint \
 	    keepass2 \
 	    zip \
