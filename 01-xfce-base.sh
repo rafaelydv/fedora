@@ -16,7 +16,7 @@ dnf install @base-x \
 	    xfce4-notes-plugin \
 	    terminator \
 	    xdg-user-dirs \
-	    pcmanfm \
+	    xfdesktop \
 	    gvfs-fuse \
 	    gvfs-smb \
 	    lightdm-gtk-greeter-settings \
